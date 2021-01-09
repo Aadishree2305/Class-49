@@ -1,0 +1,28 @@
+h1{
+    color:blue;
+}
+/*{
+    border:solid;
+}*/
+.header{
+    background-color:rgb(180, 52, 174);
+    display:flex;
+    justify-content:space-between
+}
+.grid{
+    background-color:rgb(111, 223, 204);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly
+}
+.footer{
+    background-color:rgb(16, 67, 109);
+    display:flex;
+    justify-content:flex-end
+}
+
+p,h2{
+    background-color:rgb(141, 109, 201);
+    text-align:center;
+    color:rgb(18, 188, 211);
+}
